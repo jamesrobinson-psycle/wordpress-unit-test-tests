@@ -50,3 +50,4 @@ before_script:
     - cd "/tmp/wordpress/src/wp-content/plugins/$PLUGIN_SLUG"
 
 script: phpunit tests
+
